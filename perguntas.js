@@ -35,11 +35,11 @@ criaCartao(
 )
 criaCartao(
     'educação financeira',
-    'o que é educação financeira'
-    ' educação financeira é a área que ensina a lidar melhor com suas finanças.',
+    'o que é educação financeira',
+    ' educação financeira é a área que ensina a lidar melhor com suas finanças.'
 )
 criaCartao(
-    'ciencias'
+    'ciencias',
     'Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?',
     'Tem entre 4 a 6 litros. São retirados 450 mililitros'
 )
